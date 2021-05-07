@@ -1,6 +1,5 @@
 body {
   font-family: 'Roboto', sans-serif;
-  font-weight: 300;
 }
 
 .bg-color{
@@ -39,6 +38,9 @@ body {
 .card-text{
   text-align: left;
   margin-bottom: 0;
+  color: #707070;
+  font-size: 21.3px;
+  font-weight: 300;
 }
 
 /* 13pt = 17.3px */
@@ -78,15 +80,16 @@ font-weight: 500;
   max-width: 700px;
 }
 
-/* 16pt = 21.3px */
-.cardText, .priceText, footer, input[placeholder]{
-  color: #707070;
-  font-size: 21.3px;
-  font-weight: 300;
-}
 
 .text-color{
   color: #212529;
   font-size: 21.3px;
   font-weight: 500;
+}
+
+/* 16pt = 21.3px */
+.priceText, footer, input[placeholder]{
+  color: #707070;
+  font-size: 21.3px;
+  font-weight: 300;
 }
