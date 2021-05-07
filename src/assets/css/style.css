@@ -1,0 +1,92 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+.bg-color{
+  background-color: #28A745;
+}
+
+/* 80pt = 106.7px */
+.mtop{
+  margin-top: 106.7px;
+}
+
+/* 25pt = 33.3px */
+.imgNav{
+  height: 33.3px;
+}
+
+/* 278pt = 370.7px */
+.imgCard{
+  width: 370.7px;
+  height: 240px;
+}
+
+/* 278pt = 370.7px */
+.cardWidth {
+  max-width: 370.7px;
+}
+
+/* 20pt = 26.7px */
+.card-title {
+  color: #212529;
+  font-weight: 300;
+  font-size: 26.7px;
+  text-align: left;
+}
+
+.card-text{
+  text-align: left;
+  margin-bottom: 0;
+}
+
+/* 13pt = 17.3px */
+.card-dir{
+  color: #707070;
+  font-weight: 300;
+  font-size: 17.3px;
+  text-align: left;
+}
+
+.lineBorder, .card{
+  border: 1.3px solid #DDDDDD;
+}
+
+.priceColor{
+color: #28A745;
+font-weight: 500;
+font-size: 26.7px;
+}
+
+p{
+  margin-bottom: 0;
+}
+
+/* 24pt = 32px */
+.imgFooter{
+  height: 32px;
+}
+
+/* 21pt = 28px */
+.textSize{
+font-size: 28px;
+font-weight: 500;
+}
+
+.formWidth{
+  max-width: 700px;
+}
+
+/* 16pt = 21.3px */
+.cardText, .priceText, footer, input[placeholder]{
+  color: #707070;
+  font-size: 21.3px;
+  font-weight: 300;
+}
+
+.text-color{
+  color: #212529;
+  font-size: 21.3px;
+  font-weight: 500;
+}
